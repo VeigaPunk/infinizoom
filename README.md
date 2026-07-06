@@ -9,6 +9,8 @@ One bifurcation hovers above the MacBook: dive into the chassis (A) or into the
 display (D), down to a single sub-pixel LED and its OLED stack, converging on the
 same atomic tail.
 
+Born from a one-shot prompt by [Taelin (@VictorTaelin)](https://x.com/VictorTaelin) — the spec was his, the ride is the model's.
+
 ## Run
 
 ```sh

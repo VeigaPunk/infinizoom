@@ -1,7 +1,5 @@
 # infinizoom
 
-![cover](cover.png)
-
 A procedural infinite-zoom world: one continuous camera track from a day-lit room,
 into a MacBook Pro, through the M4 die, down standard-cell logic and a FinFET, into
 the silicon lattice, an atom, its nucleus, a nucleon, a quark — ~17 decades of scale.
